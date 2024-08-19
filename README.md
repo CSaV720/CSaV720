@@ -1,30 +1,65 @@
-<h1 align="center">Hi 👋, I'm CSaV</h1>
-<h3 align="center">A passionate Beginner/Intermediate Pentester.</h3>
+<h1 align="left">Hello All</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csav720&label=Profile%20views&color=0e75b6&style=flat" alt="csav720" /> </p>
+###
 
-- 🔭 I’m currently working on **Network Analysing**
+<p align="left">My name is CSaV !!</p>
 
-- 🌱 I’m currently learning **Python,Linux,JS**
+###
 
-- 👯 I’m looking to collaborate on **CSS Development Training**
+<h2 align="left">About me</h2>
 
-- 🤝 I’m looking for help with **CSS,HTML,SQL**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/CSaV720](https://github.com/CSaV720)
+<br clear="both">
 
-- 💬 Ask me about **Chromebook configuring.**
+<p align="left">📚 I'm currently learning ... JS, CSS, SQL<br>🎯 Goals: ... Become a Pentester.</p>
 
-- 📫 How to reach me **cyruscraig2002@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/csav720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csav720" height="30" width="40" /></a>
-</p>
+<h2 align="left">I code with</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csav720&show_icons=true&locale=en&layout=compact" alt="csav720" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csav720&" alt="csav720" /></p>
+###
+
+<img src="https://raw.githubusercontent.com/CSaV720/CSaV720/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CSaV720/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/csav720/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CSaV720&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CSaV720&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CSaV720&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CSaV720&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
